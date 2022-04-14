@@ -1,4 +1,4 @@
-### Stat-Project-1
+# Stat-Project-1
 
 ## We have been approached by Blue Nile to perform the following tasks:
 
